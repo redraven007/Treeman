@@ -1,7 +1,7 @@
 <?php
     // TODO スコアランキング機能
     // TODO 棋譜提出ロジック実装
-    // test commit
+    // TODO gitHub連携
 ?>
 <!DOCTYPE html>
 <html>
