@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+.full-width {
+    width:100%;
+}
+.full-height {
+    height: 90vh;
+}
+.thin {
+    width:19%;
+    height:10%;
+}
+.thick {
+    width:40%;
+    height:10%;
+}
+.branch {
+    background-color:#000000;
+}
+.tikiman {
+    background-color:#FF0000;
+}
